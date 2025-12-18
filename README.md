@@ -1,3 +1,3 @@
 My personal bucket for [Scoop](https://scoop.sh).
 
-fork from scoop-jingyu9575
+fork from [scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
