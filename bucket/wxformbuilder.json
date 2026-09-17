@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/wxFormBuilder/wxFormBuilder/",
-    "version": "3.10.1",
+    "version": "4.2.1",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wxFormBuilder/wxFormBuilder/releases/download/v3.10.1/wxFormBuilder-3.10.1-x64.exe",
-            "hash": "3d3212818ed38606900724647fd86aba14a14e1a0f43b9e07ab0d535a6d2de37"
+            "url": "https://github.com/wxFormBuilder/wxFormBuilder/releases/download/v4.2.1/wxFormBuilder-4.2.1-x64.exe",
+            "hash": "eedd7a2ffca9298ce46e3153bf13650e1a184bb508cfcd5d5c2e2117e511b7c8"
         },
         "32bit": {
-            "url": "https://github.com/wxFormBuilder/wxFormBuilder/releases/download/v3.10.1/wxFormBuilder-3.10.1-x86.exe",
-            "hash": "ab06b5e878845c6a2bfd638c6c06b3baa3c3a9687587ba5199e3b82339a3f9aa"
+            "url": "https://github.com/wxFormBuilder/wxFormBuilder/releases/download/v4.2.1/wxFormBuilder-4.2.1-x86.exe",
+            "hash": "84e877085847911e05e2f8c1abd127779cf391c69843492a913f9cfba4e25238"
         }
     },
     "innosetup": true,
