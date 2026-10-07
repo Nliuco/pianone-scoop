@@ -1,15 +1,15 @@
 {
     "homepage": "https://wiki.mozilla.org/Add-ons/Extension_Signing#Unbranded_Builds",
-    "version": "157_0",
+    "version": "157_0_1",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.8eb25af4acf031ab1e06abf1a912275083c820ed.firefox.win64-add-on-devel/artifacts/public/build/target.zip",
-            "hash": "030804b8dbef328e10ea3357e0da806fb8f29e9bb3b93d286636d0928ee5731f"
+            "url": "https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.737ec77d798755890b062aab541a90d6c75afd19.firefox.win64-add-on-devel/artifacts/public/build/target.zip",
+            "hash": "9581046d63987b725baa0bd7fafd14c4a3476a89e1a45e70ccc5acaf7c95e0b6"
         },
         "32bit": {
-            "url": "https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.8eb25af4acf031ab1e06abf1a912275083c820ed.firefox.win32-add-on-devel/artifacts/public/build/target.zip",
-            "hash": "15879dcb4387517f2424edc669026d1394d418dac0ed84f0dc48ec153b68903a"
+            "url": "https://firefox-ci-tc.services.mozilla.com/api/index/v1/task/gecko.v2.mozilla-release.revision.737ec77d798755890b062aab541a90d6c75afd19.firefox.win32-add-on-devel/artifacts/public/build/target.zip",
+            "hash": "1d53e644285f74673a1f1135d27cff697d80945839bb63af2d3b258f07eb1c9e"
         }
     },
     "extract_dir": "firefox",
