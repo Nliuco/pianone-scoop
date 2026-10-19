@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/Oksion/XiControl",
-    "version": "0.17.0",
+    "version": "0.18.0",
     "license": "GPL-3.0-only",
     "description": "Tray utility for Xiaomi/Redmi laptops: battery charge limit, performance modes, OSD and Mi button — driver-free, via the stock firmware WMI interface (MIFS).",
-    "url": "https://github.com/Oksion/XiControl/releases/download/v0.17.0/XiControl-v0.17.0-win-x64.exe#/XiControl.exe",
-    "hash": "61ddc94157eb4b465ecf62ab38a207ca01db6174b7b0a93296ccb279fb417928",
+    "url": "https://github.com/Oksion/XiControl/releases/download/v0.18.0/XiControl-v0.18.0-win-x64.exe#/XiControl.exe",
+    "hash": "199313d970c4a1d7a3590203e16cdea26ae733fb6632f2a16252eac628e8b75e",
     "bin": "XiControl.exe",
     "shortcuts": [
         [
